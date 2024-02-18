@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently learning Data Structures and Algorithms. <br>So not working on projects currently.
 
+![image](https://github.com/mysticai11/mysticai11/assets/149044321/e87d6f0e-4aba-42d1-9b3b-1911eb505773)
 
 ![image](https://github.com/mysticai11/mysticai11/assets/149044321/04744a7f-5dcd-4fdb-b433-78dfea82e38a)
 
