@@ -3,7 +3,10 @@ I'm currently learning Data Structures and Algorithms. <br>So not working on pro
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python]![image](https://github.com/mysticai11/mysticai11/assets/149044321/ef3cffe7-9936-4107-9f67-9c164bebf0d1)
+https://cdn.vectorstock.com/i/preview-1x/93/15/html5-css3-js-icon-set-web-development-logo-vector-29309315.jpg
+https://cdn3d.iconscout.com/3d/free/thumb/free-html-4387638-3640299.png?f=webp
+
 ![image](https://github.com/mysticai11/mysticai11/assets/149044321/04744a7f-5dcd-4fdb-b433-78dfea82e38a)
 
 # 📊 GitHub Stats:
