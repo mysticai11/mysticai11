@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently learning Data Structures and Algorithms. <br>So not working on projects currently.
+
 
 
 
